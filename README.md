@@ -1,3 +1,4 @@
+# HybridAPP中，H5页面在ios系统中页面会被拖动，出现webview的底部颜色，引入此插件完美解决问题，不依赖任何第三方库！
 # iNoBounce
 > Stop your iOS webapp from bouncing around when scrolling
 
